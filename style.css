@@ -1,0 +1,24 @@
+:root{
+    --fonte-principal:"Lora"; }
+
+body{ 
+
+    background-color: bisque;
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 50px;
+    text-align: center;
+    border: 5px solid;
+
+.foto_uu {
+    background-image: url(img/stray\ kids.jpg);
+    height: 50vh;
+    margin:0 12em;
+}
+
+.titulo_uuu {
+    font-family: var(--fonte-principal);
+    font-size: 400;
+    text-align: center;
+}
+}
